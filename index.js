@@ -15,7 +15,8 @@ window.teachers = [
     phoneNumber: '553139211',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'az', 'en', 'ru', 'tr' ]
+    langs: [ 'az', 'en', 'ru', 'tr' ],
+    exp: 3
   },
   {
     id: 10,
@@ -31,7 +32,8 @@ window.teachers = [
     phoneNumber: '503134985',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'az', 'en', 'ru', 'tr' ]
+    langs: [ 'az', 'en', 'ru', 'tr' ],
+    exp: 15
   },
   {
     id: 11,
@@ -47,7 +49,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'en', 'ru' ]
+    langs: [ 'en', 'ru' ],
+    exp: 6
   },
   {
     id: 12,
@@ -63,7 +66,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'az', 'ru' ]
+    langs: [ 'az', 'ru' ],
+    exp: 1
   },
   {
     id: 13,
@@ -79,7 +83,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'az' ]
+    langs: [ 'az' ],
+    exp: 5
   },
   {
     id: 14,
@@ -95,7 +100,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'en', 'ru' ]
+    langs: [ 'az', 'en', 'ru' ],
+    exp: 10
   },
   {
     id: 15,
@@ -111,7 +117,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'ru' ]
+    langs: [ 'az', 'ru' ],
+    exp: 13
   },
   {
     id: 16,
@@ -127,7 +134,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'ru', 'tr' ]
+    langs: [ 'az', 'ru', 'tr' ],
+    exp: 14
   },
   {
     id: 17,
@@ -143,7 +151,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'en', 'ru' ]
+    langs: [ 'az', 'en', 'ru' ],
+    exp: 10
   },
   {
     id: 18,
@@ -159,7 +168,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'ru', 'tr' ]
+    langs: [ 'ru', 'tr' ],
+    exp: 9
   },
   {
     id: 19,
@@ -175,7 +185,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Informatika uzre felsefe doktoru',
     places: null,
-    langs: [ 'en' ]
+    langs: [ 'en' ],
+    exp: 13
   },
   {
     id: 20,
@@ -191,7 +202,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'en', 'ru', 'tr' ]
+    langs: [ 'az', 'en', 'ru', 'tr' ],
+    exp: 1
   },
   {
     id: 21,
@@ -207,7 +219,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Texnika Elmleri Namizedi',
     places: null,
-    langs: [ 'az', 'en', 'ru' ]
+    langs: [ 'az', 'en', 'ru' ],
+    exp: 8
   },
   {
     id: 22,
@@ -223,7 +236,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'en', 'ru' ]
+    langs: [ 'az', 'en', 'ru' ],
+    exp: 9
   },
   {
     id: 23,
@@ -239,7 +253,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'en' ]
+    langs: [ 'az', 'en' ],
+    exp: 2
   },
   {
     id: 24,
@@ -255,7 +270,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'en' ]
+    langs: [ 'az', 'en' ],
+    exp: 6
   },
   {
     id: 25,
@@ -271,7 +287,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Texnika Elmleri Namizedi',
     places: null,
-    langs: ['az']
+    langs: [ 'az' ],
+    exp: 4
   },
   {
     id: 26,
@@ -287,7 +304,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az' ]
+    langs: [ 'az' ],
+    exp: 2
   },
   {
     id: 27,
@@ -303,7 +321,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'ru', 'tr' ]
+    langs: [ 'az', 'ru', 'tr' ],
+    exp: 5
   },
   {
     id: 28,
@@ -319,7 +338,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'ru' ]
+    langs: [ 'az', 'ru' ],
+    exp: 12
   },
   {
     id: 29,
@@ -335,7 +355,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'ru' ]
+    langs: [ 'az', 'ru' ],
+    exp: 1
   },
   {
     id: 30,
@@ -351,7 +372,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'en', 'ru', 'tr' ]
+    langs: [ 'en', 'ru', 'tr' ],
+    exp: 9
   },
   {
     id: 31,
@@ -367,7 +389,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'ru' ]
+    langs: [ 'az', 'ru' ],
+    exp: 0
   },
   {
     id: 32,
@@ -383,7 +406,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Yoxdur',
     places: null,
-    langs: [ 'az', 'tr' ]
+    langs: [ 'az', 'tr' ],
+    exp: 13
   },
   {
     id: 33,
@@ -399,7 +423,8 @@ window.teachers = [
     phoneNumber: '501110011',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'az' ]
+    langs: [ 'az' ],
+    exp: 1
   },
   {
     id: 55,
@@ -415,7 +440,8 @@ window.teachers = [
     phoneNumber: '703002300',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'ru' ]
+    langs: [ 'ru' ],
+    exp: 0
   },
   {
     id: 59,
@@ -431,7 +457,8 @@ window.teachers = [
     phoneNumber: '703002300',
     scientificDegree: 'Riyaziyyat uzre Felsefe Doktoru',
     places: null,
-    langs: [ 'az' ]
+    langs: [ 'az' ],
+    exp: 1
   }
 ]
 
